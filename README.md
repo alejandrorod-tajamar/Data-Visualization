@@ -34,4 +34,4 @@ py -m venv .venv
 pip install -r requirements.txt
 ```
 
-7. Sigue las instrucciones del notebook [notebook](Tipos_de_Data_y_Visualizacion.ipynb).
+7. Sigue las instrucciones del [notebook](Tipos_de_Data_y_Visualizacion.ipynb).
